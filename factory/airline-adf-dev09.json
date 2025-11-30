@@ -1,0 +1,9 @@
+{
+	"name": "airline-adf-dev09",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a8a5b1fe-a88d-4e54-bac5-e4e7f7168143",
+		"tenantId": "a4512d45-bb9c-4a17-a6cb-a649aad70de6"
+	}
+}
